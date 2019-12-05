@@ -1,6 +1,8 @@
 ##  Explanation
 this is the source code for the paper "A Novel Facility Location Problem for Taxi Hailing Platforms: A Two-stage Neighborhood Search Heuristic Approach"
 
+### Code 
+
 #### These are the custom classes that exist in this project.
 
 * DI.java	
@@ -19,3 +21,7 @@ this is the source code for the paper "A Novel Facility Location Problem for Tax
 * heuristic_egas.java (this class defines the heuristic method)
 * Solution_L2.java (this is the main class)
 
+### Data
+
+* Driver.txt (driver information）
+* Facility.txt (facility location information)
